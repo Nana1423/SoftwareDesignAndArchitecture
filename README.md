@@ -9,9 +9,9 @@ This course takes Java beginners to the next level by covering object-oriented a
 
 Skills developed on this course:
 
-- Object-Oriented Design
+* Object-Oriented Design
 * Object-Oriented Analysis And Design
-+ Unified Modeling Language (UML)
+* Unified Modeling Language (UML)
 
 Certificate: 
 
@@ -21,10 +21,10 @@ This course extends object-oriented analysis and design by incorporating design 
 
 Skills developed on this course: 
 
-- Demonstrate how to use design patterns to address user interface design issues
+* Demonstrate how to use design patterns to address user interface design issues
 * Identify the most suitable design pattern to address a given application design problem
 * Apply design principles (e.g., open-closed, dependency inversion, least knowledge)
 * Critique code by identifying and refactoring anti-patterns
-+ Apply the model-view-controller architectural pattern
+* Apply the model-view-controller architectural pattern
 
 Certificate: 
